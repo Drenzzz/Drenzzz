@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hemlo%20👋,%20I'm%20Drenzzz.&fontSize=70&fontAlignY=40&desc=Just%20a%20Developer%20with%20anomalies%20things&descAlignY=60&descSize=20&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20👋,%20I'm%20Drenzzz.&fontSize=70&fontAlignY=40&desc=Just%20a%20Developer%20with%20anomalies%20things&descAlignY=60&descSize=20&fontColor=fff" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,35 +8,40 @@
 
 <br/>
 
-<h3 align="center">⚡ Tech Stack & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,java,kotlin,php,py,dart,bash,react,nextjs,astro,laravel,flutter,tailwind,bootstrap,supabase,postgres,mongo,prisma&theme=dark&perline=11" alt="Stack 1" />
+  <p>
+    Focusing on high-performance desktop applications and modern web architecture.<br/>
+    Currently exploring system-level programming and virtualization.
+  </p>
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,html,css&theme=dark" height="50" alt="Languages" />
+  &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&theme=dark" height="50" alt="Frameworks" />
+
+
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vite,nodejs,bun,postgres,mongo,supabase,docker,figma&theme=dark" height="50" alt="Tools" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Drenzzz&theme=darcula&card_width=500" alt="GitHub Streak" /></a>
   
-  <br/>
+  <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode,vite,git,github,nodejs,bun,figma&theme=dark" alt="Stack 2" />
-  </div>
+<img src="https://github.com/drenzzz/drenzzz/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
+</div>
 
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=drenzzz&show_icons=true&theme=ambient_gradient&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenzzz&layout=compact&theme=ambient_gradient&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
 
 <br/>
 
 <div align="center">
-  <a href="https://discord.com/users/570144129397555200">
-    <img src="https://lanyard.cnrad.dev/api/570144129397555200?theme=dark&bg=0d1117&animated=true&hide_discrim=true" width="400" />
-  </a>
+  <a href="https://discord.com/users/570144129397555200"><img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=472E48&borderRadius=15px&theme=dark&showDisplayName=true" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

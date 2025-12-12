@@ -29,11 +29,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Drenzzz&theme=darcula&card_width=500" alt="GitHub Streak" /></a>
   
   <br/><br/>
 
-<img src="https://github.com/drenzzz/drenzzz/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Drenzzz&theme=tokyonight-duo&border_radius=8" alt="GitHub Streak" />
+</a>
 </div>
 
 <br/>
@@ -45,3 +45,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+

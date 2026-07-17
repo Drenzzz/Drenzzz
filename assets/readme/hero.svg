@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Drenzzz — Fullstack &amp; Systems Developer</title>
+  <desc id="desc">GitHub profile hero: practical desktop tools, APIs, and web products.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#24283b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="338" rx="19" fill="none" stroke="#292e42" stroke-width="1"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="48" width="4" height="244" rx="2" fill="url(#accent)"/>
+
+  <!-- category -->
+  <text x="56" y="78" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">PROFILE · DEVELOPER</text>
+
+  <!-- name -->
+  <text x="56" y="148" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700">Drenzzz</text>
+
+  <!-- role -->
+  <text x="56" y="192" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">Fullstack &amp; Systems Developer</text>
+
+  <!-- one-liner -->
+  <text x="56" y="236" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building practical desktop tools, APIs, and web products</text>
+  <text x="56" y="262" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18">that stay fast and honest.</text>
+
+  <!-- meta chips -->
+  <g transform="translate(56 292)">
+    <rect width="118" height="26" rx="6" fill="#24283b"/>
+    <text x="12" y="18" fill="#9ece6a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Padang, ID</text>
+    <rect x="128" width="72" height="26" rx="6" fill="#24283b"/>
+    <text x="140" y="18" fill="#bb9af7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">he/him</text>
+    <rect x="210" width="130" height="26" rx="6" fill="#24283b"/>
+    <text x="222" y="18" fill="#7dcfff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">drenzzz.dev</text>
+  </g>
+
+  <!-- right: terminal card -->
+  <g transform="translate(720 56)">
+    <rect width="424" height="228" rx="14" fill="#16161e" stroke="#292e42" stroke-width="1"/>
+    <rect width="424" height="36" rx="14" fill="#1f2335"/>
+    <rect y="22" width="424" height="14" fill="#1f2335"/>
+    <circle cx="22" cy="18" r="5" fill="#f7768e"/>
+    <circle cx="40" cy="18" r="5" fill="#e0af68"/>
+    <circle cx="58" cy="18" r="5" fill="#9ece6a"/>
+    <text x="80" y="22" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">~/drenzzz</text>
+
+    <text x="24" y="68" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">❯ whoami</text>
+    <text x="24" y="96" fill="#c0caf5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">drenzzz — builder of useful tools</text>
+
+    <text x="24" y="132" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">❯ focus</text>
+    <text x="24" y="160" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">web · desktop · systems</text>
+
+    <text x="24" y="196" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">❯ stack</text>
+    <text x="24" y="224" fill="#9ece6a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">Go · TypeScript · Wails · Next.js</text>
+  </g>
+</svg>

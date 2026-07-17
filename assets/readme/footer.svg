@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-labelledby="title desc">
+  <title id="title">Footer</title>
+  <desc id="desc">Tokyo Night footer rule for Drenzzz profile README.</desc>
+
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1b26" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#7aa2f7"/>
+      <stop offset="70%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#1a1b26" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="80" fill="#1a1b26"/>
+  <rect x="80" y="28" width="1040" height="2" rx="1" fill="url(#line)"/>
+  <text x="600" y="56" text-anchor="middle" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">thanks for stopping by · keep building</text>
+</svg>

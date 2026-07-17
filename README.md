@@ -71,20 +71,7 @@
 
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Drenzzz">
-        <img src="https://github-readme-stats.vercel.app/api?username=Drenzzz&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true&icon_color=7aa2f7&title_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Drenzzz">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drenzzz&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=true&title_color=bb9af7&text_color=c0caf5&langs_count=8" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br/>
@@ -93,7 +80,7 @@
 
 <div align="center">
   <a href="https://github.com/Drenzzz">
-    <img src="https://streak-stats.demolab.com?user=Drenzzz&theme=tokyonight-duo&border_radius=8" alt="GitHub Streak" />
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
   </a>
 </div>
 

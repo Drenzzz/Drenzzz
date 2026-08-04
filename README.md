@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Drenzzz — Fullstack and Systems Developer. Building practical desktop tools, APIs, and web products that stay fast and honest." />
+   <img src="./assets/readme/hero.svg" width="100%" alt="Drenzzz — Fullstack and Systems Developer. Building practical desktop tools, APIs, and web products that stay fast and honest." />
 </p>
 
 <p align="center">
@@ -90,4 +90,3 @@ I ship end-to-end: Go/Wails desktop apps, TypeScript/Next.js web, and Fiber/Hono
 
 <p align="center">
   <img src="./assets/readme/footer.svg" width="100%" alt="Thanks for stopping by" />
-</p>

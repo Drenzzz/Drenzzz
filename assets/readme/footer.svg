@@ -13,5 +13,5 @@
 
   <rect width="1200" height="80" fill="#1a1b26"/>
   <rect x="80" y="28" width="1040" height="2" rx="1" fill="url(#line)"/>
-  <text x="600" y="56" text-anchor="middle" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">thanks for stopping by · keep building</text>
+  <text x="600" y="56" text-anchor="middle" fill="#a9b1d6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">thanks for stopping by · keep building</text>
 </svg>

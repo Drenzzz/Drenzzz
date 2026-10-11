@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="206" viewBox="0 0 420 206" role="img" aria-labelledby="title desc">
   <title id="title">Drenzzz, Fullstack and Systems Developer</title>
-  <desc id="desc">GitHub profile hero: practical desktop tools, APIs, and web products.</desc>
+  <desc id="desc">Shell prompt and whoami output: Drenzzz, playful dev in Padang, building practical desktop tools, APIs, and web products that stay fast and honest.</desc>
 
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -9,39 +9,13 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="340" rx="20" fill="#1a1b26"/>
-  <rect x="1" y="1" width="1198" height="338" rx="19" fill="none" stroke="#292e42" stroke-width="1"/>
-
-  <!-- kicker: terminal voice in words, no window -->
-  <text x="56" y="78" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">PLAYFUL DEV · PADANG, ID</text>
-
-  <!-- focal point: the name -->
-  <text x="56" y="148" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700">Drenzzz</text>
-
-  <!-- one deliberate accent: hierarchy separator under the name -->
-  <rect x="56" y="164" width="212" height="4" rx="2" fill="url(#accent)"/>
-
-  <!-- role -->
-  <text x="56" y="208" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">Fullstack &amp; Systems Developer</text>
-
-  <!-- one-liner -->
-  <text x="56" y="248" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building practical desktop tools, APIs, and web products</text>
-  <text x="56" y="274" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18">that stay fast and honest.</text>
-
-  <!-- structural divider: identity zone vs proof zone -->
-  <line x1="660" y1="56" x2="660" y2="284" stroke="#292e42" stroke-width="1"/>
-
-  <!-- proof zone: real repos, plain text -->
-  <text x="700" y="78" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">FLAGSHIP</text>
-
-  <text x="700" y="122" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">ADBKit</text>
-  <text x="700" y="146" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Cross-platform desktop GUI for ADB and Fastboot</text>
-
-  <text x="700" y="188" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Caskify</text>
-  <text x="700" y="212" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Linux-first PostgreSQL client, Docker aware</text>
-
-  <text x="700" y="254" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Hayainime-API</text>
-  <text x="700" y="278" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Anime REST API with Redis cache and key auth</text>
-
-  <text x="700" y="314" fill="#9ece6a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">Go · TypeScript · Wails · Next.js</text>
+  <g>
+    <text x="2" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#7aa2f7">drenzzz@Rozelith</tspan><tspan fill="#a9b1d6">&#160;/megaproyek/drenzzz&#160;</tspan><tspan fill="#9ece6a">main</tspan><tspan fill="#9ece6a">&#160;$&#160;</tspan><tspan fill="#c0caf5" font-weight="600">whoami</tspan></text>
+    <text x="2" y="78" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Drenzzz</text>
+    <rect x="2" y="90" width="213" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="2" y="112" fill="#a9b1d6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">playful dev · Padang, ID</text>
+    <text x="2" y="138" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">Fullstack &amp; Systems Developer</text>
+    <text x="2" y="164" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Building practical desktop tools, APIs, and</text>
+    <text x="2" y="184" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">web products that stay fast and honest.</text>
+  </g>
 </svg>

@@ -1,21 +1,24 @@
 <p align="center">
-   <img src="./assets/readme/hero.svg" width="100%" alt="Drenzzz, Fullstack and Systems Developer. Building practical desktop tools, APIs, and web products that stay fast and honest." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero-light.svg" />
+    <img src="./assets/readme/hero.svg" width="640" alt="Shell prompt drenzzz@Rozelith running whoami, output: Drenzzz, Fullstack and Systems Developer, building practical desktop tools, APIs, and web products that stay fast and honest." />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://drenzzz.dev"><img src="https://img.shields.io/badge/website-drenzzz.dev-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Website" /></a>
-  <a href="https://github.com/Drenzzz"><img src="https://img.shields.io/badge/GitHub-Drenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=github" alt="GitHub" /></a>
-  <a href="https://discord.com/users/570144129397555200"><img src="https://img.shields.io/badge/Discord-chat-7aa2f7?style=flat-square&labelColor=1a1b26&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Drenzzz&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/Drenzzz"><img src="https://img.shields.io/badge/github-Drenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=github" alt="GitHub" /></a>
+  <a href="https://discord.com/users/570144129397555200"><img src="https://img.shields.io/badge/discord-chat-7aa2f7?style=flat-square&labelColor=1a1b26&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
 ### About
 
-I'm **Drenzzz**, a 21-year-old developer from Politeknik Negeri Padang. I like tools that do their job and get out of the way.
+I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang. I build backend and fullstack software with Go, TypeScript, and JavaScript.
 
-I ship end to end: Go/Wails desktop apps, TypeScript/Next.js web, and Fiber/Hono APIs. Fast, practical, and visually honest. Linux first when it matters.
+Web apps, REST APIs, desktop tools, and academic projects, shipped through personal, open-source, and university work. Linux first when it matters.
 
 | Focus       | What I build                                                      |
 | ----------- | ----------------------------------------------------------------- |
@@ -28,31 +31,20 @@ I ship end to end: Go/Wails desktop apps, TypeScript/Next.js web, and Fiber/Hono
 ### Stack
 
 <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-    <img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" />
-    <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-    <img src="https://img.shields.io/badge/Wails-CC3333?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="./assets/readme/stack-badges.svg" width="940" alt="Languages: JavaScript, TypeScript, Go. Frontend: React, Next.js, Astro. Backend: Hono, Elysia, Fiber. Desktop: Wails. Databases: PostgreSQL, Redis. Tools: Git, GitHub, Docker, Linux, Node.js, Bun, Vercel, Railway, Cloudflare." />
 </p>
 
 ---
 
 ### Featured work
 
-| Project                                                                       | What it does                                                                          | Stack                              |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------- |
-| [**ADBKit**](https://github.com/Drenzzz/ADBKit)                               | Cross-platform desktop GUI for ADB and Fastboot                                       | TypeScript · Wails · React · Astro |
-| [**Caskify**](https://github.com/CaskifyApp/Caskify)                          | Linux-first PostgreSQL client with keyring auth, a query editor, and Docker awareness | Go · Wails · React · TypeScript    |
-| [**Hayainime-API**](https://github.com/Drenzzz/Hayainime-API)                 | Anime REST API with Redis cache and API key auth                                      | Go · Fiber · Redis                 |
-| [**ranoz-go**](https://github.com/Drenzzz/ranoz-go)                           | Ranoz.gg uploader CLI with streamed uploads, concurrent workers, and JSON output      | Go                                 |
-| [**mitra-wiradoor-sumbar**](https://github.com/Drenzzz/mitra-wiradoor-sumbar) | Client work, a company profile and e-catalog for MR Konstruksi                        | TypeScript · Next.js               |
+| Project                                                                       | What it does                                                                      | Stack                                         |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------- |
+| [**ADBKit**](https://github.com/Drenzzz/ADBKit)                               | Cross-platform desktop client for Android device management (ADB and Fastboot)    | Go, Wails, React, TypeScript                  |
+| [**Mitra Wiradoor Sumbar**](https://github.com/Drenzzz/mitra-wiradoor-sumbar) | Company profile and e-catalog: storefront, CMS, inquiry, guest checkout, and RBAC | Next.js, React, TypeScript, PostgreSQL        |
+| [**Hayainime API**](https://github.com/Drenzzz/Hayainime-API)                 | REST API for anime data: search, schedules, details, and streaming, with caching  | Go, Fiber, Colly, Redis                       |
+| [**Techyst**](https://github.com/Ambanet-Corporation/techyst)                 | AI-assisted hardware diagnostic app for smartphone repair technicians             | Next.js, React, TypeScript                    |
+| [**FoodQCheck**](https://github.com/Drenzzz/umkm-food-quality)                | Capstone: food-quality classification with a model, API backend, and mobile app   | Python, FastAPI, TensorFlow, React, Capacitor |
 
 ---
 

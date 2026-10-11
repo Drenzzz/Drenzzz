@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-<p align="center">
-=======
 <div align="left">
->>>>>>> f86d445 (super)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero-light.svg" />
     <img src="./assets/readme/hero.svg" width="640" alt="Shell prompt drenzzz@Rozelith running whoami, output: Drenzzz, Fullstack and Systems Developer, building practical desktop tools, APIs, and web products that stay fast and honest." />
   </picture>
-<<<<<<< HEAD
-</p>
-=======
 </div>
->>>>>>> f86d445 (super)
 
 <p align="center">
   <a href="https://drenzzz.dev"><img src="https://img.shields.io/badge/website-drenzzz.dev-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Website" /></a>
@@ -39,7 +31,7 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 ### Stack
 
 <p align="center">
-  <img src="./assets/readme/stack-badges.svg" width="940" alt="Languages: JavaScript, TypeScript, Go. Frontend: React, Next.js, Astro. Backend: Hono, Elysia, Fiber. Desktop: Wails. Databases: PostgreSQL, Redis. Tools: Git, GitHub, Docker, Linux, Node.js, Bun, Vercel, Railway, Cloudflare." />
+  <img src="./assets/readme/stack-badges.svg" width="880" alt="Languages: JavaScript, TypeScript, Go. Frontend: React, Next.js, Astro. Backend: Hono, Elysia, Fiber. Desktop: Wails. Databases: PostgreSQL, Redis. Tools: Git, GitHub, Docker, Linux, Node.js, Bun. Infrastructure: Vercel, Railway, Cloudflare." />
 </p>
 
 ---

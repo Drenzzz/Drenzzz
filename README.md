@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 <p align="center">
+=======
+<div align="left">
+>>>>>>> f86d445 (super)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/readme/hero-light.svg" />
     <img src="./assets/readme/hero.svg" width="640" alt="Shell prompt drenzzz@Rozelith running whoami, output: Drenzzz, Fullstack and Systems Developer, building practical desktop tools, APIs, and web products that stay fast and honest." />
   </picture>
+<<<<<<< HEAD
 </p>
+=======
+</div>
+>>>>>>> f86d445 (super)
 
 <p align="center">
   <a href="https://drenzzz.dev"><img src="https://img.shields.io/badge/website-drenzzz.dev-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Website" /></a>

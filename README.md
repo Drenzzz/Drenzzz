@@ -50,9 +50,16 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 
 ### Activity
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116653610" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116653610&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Drenzzz" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116653610&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <br/>
 
@@ -61,6 +68,12 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://discord.com/users/570144129397555200">
+    <img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=1a1b26&borderRadius=12px&theme=dark&showDisplayName=true" alt="Discord Presence" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
@@ -72,14 +85,8 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 
 ---
 
-### Connect
+<!--### Connect-->
 
-<p align="center">
-  <a href="https://discord.com/users/570144129397555200">
-    <img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=1a1b26&borderRadius=12px&theme=dark&showDisplayName=true" alt="Discord Presence" />
-  </a>
-</p>
-
-<p align="center">
+<!--<p align="center">
   <img src="./assets/readme/footer.svg" width="100%" alt="Thanks for stopping by" />
-</p>
+</p>-->

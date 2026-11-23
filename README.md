@@ -9,6 +9,11 @@
 <p align="center">
   <a href="https://drenzzz.dev"><img src="https://img.shields.io/badge/website-drenzzz.dev-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Website" /></a>
   <a href="https://github.com/Drenzzz"><img src="https://img.shields.io/badge/github-Drenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=github" alt="GitHub" /></a>
+  <a href="https://t.me/realDrenzzz"><img src="https://img.shields.io/badge/telegram-@realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/naufalnazya"><img src="https://img.shields.io/badge/linkedin-naufalnazya-7aa2f7?style=flat-square&labelColor=1a1b26&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/realDrenzzz"><img src="https://img.shields.io/badge/facebook-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/realDrenzzz"><img src="https://img.shields.io/badge/instagram-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/realDrenzzz"><img src="https://img.shields.io/badge/X-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://discord.com/users/570144129397555200"><img src="https://img.shields.io/badge/discord-chat-7aa2f7?style=flat-square&labelColor=1a1b26&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
@@ -16,22 +21,16 @@
 
 ### About
 
-I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang. I build backend and fullstack software with Go, TypeScript, and JavaScript.
+I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang. I build backend and fullstack software with Go, TypeScript, and JavaScript — web apps, REST APIs, desktop tools, and academic projects shipped through personal, open-source, and university work. Linux first when it matters.
 
-Web apps, REST APIs, desktop tools, and academic projects, shipped through personal, open-source, and university work. Linux first when it matters.
-
-| Focus       | What I build                                                      |
-| ----------- | ----------------------------------------------------------------- |
-| **Web**     | Fullstack apps with Next.js, Go, and modern backend tooling       |
-| **Desktop** | GUIs that feel native, built with Wails plus React and TypeScript |
-| **Systems** | Linux tooling, Android ROM workflows, virtualization experiments  |
+For the web, I build fullstack apps with Next.js, Go, and modern backend tooling. For desktop, I build GUIs that feel native with Wails plus React and TypeScript. For systems, I work on Linux tooling, Android ROM workflows, and virtualization experiments.
 
 ---
 
 ### Stack
 
 <p align="center">
-  <img src="./assets/readme/stack-badges.svg" width="880" alt="Languages: JavaScript, TypeScript, Go. Frontend: React, Next.js, Astro. Backend: Hono, Elysia, Fiber. Desktop: Wails. Databases: PostgreSQL, Redis. Tools: Git, GitHub, Docker, Linux, Node.js, Bun. Infrastructure: Vercel, Railway, Cloudflare." />
+  <img src="./assets/readme/stack-badges.svg" width="880" alt="Languages: JavaScript, TypeScript, Go. Frontend: React, Next.js, Astro. Backend: Hono, Fiber. Desktop: Wails. Databases: PostgreSQL, Redis. Tools: Git, GitHub, Docker, Linux, Node.js, Bun, Visual Studio Code, Zed. Systems: Windows 11, CachyOS. Infrastructure: Vercel, Railway, Cloudflare." />
 </p>
 
 ---
@@ -71,7 +70,7 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 
 <p align="center">
   <a href="https://discord.com/users/570144129397555200">
-    <img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=1a1b26&borderRadius=12px&theme=dark&showDisplayName=true" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=1a1b26&borderRadius=12px&theme=dark&showDisplayName=true" width="880" alt="Discord Presence" />
   </a>
 </p>
 
@@ -85,8 +84,6 @@ Web apps, REST APIs, desktop tools, and academic projects, shipped through perso
 
 ---
 
-<!--### Connect-->
-
-<!--<p align="center">
-  <img src="./assets/readme/footer.svg" width="100%" alt="Thanks for stopping by" />
-</p>-->
+<p align="center">
+  <img src="./assets/readme/footer.svg" width="100%" alt="Thanks for stopping by — built in Padang, Jembatan Sitinurbaya" />
+</p>

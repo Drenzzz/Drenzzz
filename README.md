@@ -60,7 +60,7 @@ I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang, bui
 
 <br/>
 
-<p align="center">
+<!--<p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
@@ -70,7 +70,7 @@ I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang, bui
   <a href="https://discord.com/users/570144129397555200">
     <img src="https://lanyard.cnrad.dev/api/570144129397555200?bg=1a1b26&borderRadius=12px&theme=dark&showDisplayName=true" width="880" alt="Discord Presence" />
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <picture>

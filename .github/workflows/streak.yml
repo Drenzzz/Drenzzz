@@ -16,7 +16,7 @@ jobs:
 
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=tokyonight-duo&border_radius=8&disable_animations=true
+          options: user=${{ github.repository_owner }}&theme=tokyonight&ring=7aa2f7&fire=9ece6a&currStreakLabel=a9b1d6&border_radius=8&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

@@ -1,6 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Footer — Padang at night</title>
-  <desc id="desc">Terminal line for Padang weather, skyline with Jembatan Sitinurbaya over the Batang Arau river, and sign-off.</desc>
 
   <rect width="1200" height="320" fill="#1a1b26"/>
 
@@ -103,6 +101,4 @@
     <circle cx="1088" cy="264" r="6" fill="#14161f"/><circle cx="1102" cy="264" r="6" fill="#14161f"/>
   </g>
 
-  <!-- sign-off -->
-  <text x="600" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#a9b1d6">thanks for stopping by · built in Padang · Jembatan Sitinurbaya</text>
 </svg>

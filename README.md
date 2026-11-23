@@ -7,23 +7,21 @@
 </div>
 
 <p align="center">
-  <a href="https://drenzzz.dev"><img src="https://img.shields.io/badge/website-drenzzz.dev-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Website" /></a>
-  <a href="https://github.com/Drenzzz"><img src="https://img.shields.io/badge/github-Drenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=github" alt="GitHub" /></a>
-  <a href="https://t.me/realDrenzzz"><img src="https://img.shields.io/badge/telegram-@realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/naufalnazya"><img src="https://img.shields.io/badge/linkedin-naufalnazya-7aa2f7?style=flat-square&labelColor=1a1b26&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/realDrenzzz"><img src="https://img.shields.io/badge/facebook-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/realDrenzzz"><img src="https://img.shields.io/badge/instagram-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/realDrenzzz"><img src="https://img.shields.io/badge/X-realDrenzzz-7aa2f7?style=flat-square&labelColor=1a1b26&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discord.com/users/570144129397555200"><img src="https://img.shields.io/badge/discord-chat-7aa2f7?style=flat-square&labelColor=1a1b26&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://drenzzz.dev"><img src="https://shieldcn.dev/badge/website-drenzzz.dev-7aa2f7.svg?size=sm&font=geist&logo=globe" alt="Website" /></a>
+  <a href="https://github.com/Drenzzz"><img src="https://shieldcn.dev/badge/github-Drenzzz-24292e.svg?size=sm&font=geist&logo=github" alt="GitHub" /></a>
+  <a href="https://t.me/realDrenzzz"><img src="https://shieldcn.dev/badge/telegram-realDrenzzz-26a5e4.svg?size=sm&font=geist&logo=telegram" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/naufalnazya"><img src="https://shieldcn.dev/badge/linkedin-naufalnazya-0a66c2.svg?size=sm&font=geist&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/realDrenzzz"><img src="https://shieldcn.dev/badge/facebook-realDrenzzz-1877f2.svg?size=sm&font=geist&logo=facebook" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/realDrenzzz"><img src="https://shieldcn.dev/badge/instagram-realDrenzzz-e4405f.svg?size=sm&font=geist&logo=instagram" alt="Instagram" /></a>
+  <a href="https://x.com/realDrenzzz"><img src="https://shieldcn.dev/badge/x-realDrenzzz-000000.svg?size=sm&font=geist&logo=x" alt="X" /></a>
+  <a href="https://discord.com/users/570144129397555200"><img src="https://shieldcn.dev/badge/discord-realDrenzzz-5865f2.svg?size=sm&font=geist&logo=discord" alt="Discord" /></a>
 </p>
 
 ---
 
 ### About
 
-I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang. I build backend and fullstack software with Go, TypeScript, and JavaScript — web apps, REST APIs, desktop tools, and academic projects shipped through personal, open-source, and university work. Linux first when it matters.
-
-For the web, I build fullstack apps with Next.js, Go, and modern backend tooling. For desktop, I build GUIs that feel native with Wails plus React and TypeScript. For systems, I work on Linux tooling, Android ROM workflows, and virtualization experiments.
+I'm **Drenzzz**, a software engineering student at Politeknik Negeri Padang, building practical tools with Go, TypeScript, and JavaScript. Fullstack web apps and REST APIs with Next.js, Go, and modern backend tooling. Desktop GUIs that feel native with Wails plus React and TypeScript. Systems work in Linux tooling, Android ROM workflows, and virtualization experiments. Personal, open-source, and university projects. Linux first when it matters.
 
 ---
 
